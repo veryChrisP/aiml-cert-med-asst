@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-med-asst/blob/main/Your_Notebook_Name.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-med-asst/blob/main/CPeralta NLP with Gen AI Project 5 (Full Code).ipynb)
 
 Project prompt:
 
