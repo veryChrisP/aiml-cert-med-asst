@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-med-asst/blob/main/CPeralta_NLP_with_Gen_AI_Project_5_(Full_Code).ipynb)
 
-# Project Prompt
+# Project Prompt: Natural Language Processing with Generative AI
 
 The healthcare industry is rapidly evolving, with professionals facing increasing challenges in managing vast volumes of medical data while delivering accurate and timely diagnoses. The need for quick access to comprehensive, reliable, and up-to-date medical knowledge is critical for improving patient outcomes and ensuring informed decision-making in a fast-paced environment.
 
